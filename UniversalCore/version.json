@@ -1,3 +1,9 @@
 {
-	"modName": "UniversalCore"
+	"modName": "UniversalCore",
+	"newVersion": "1.0.1",
+	"updateURL": "http://universalteam.github.io",
+	"isDirectLink": false,
+	"changelog": "this is a test changelog
+	Test, test
+	Test"
 }
