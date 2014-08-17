@@ -1,3 +1,4 @@
 UniversalCore's change log!
 
 V 1.0.0
+-Initial Release!
