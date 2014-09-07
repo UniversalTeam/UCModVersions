@@ -1,4 +1,8 @@
 UniversalCore's change log!
 
+V 1.0.1
+-Fixed crashing on server starting
+-Fixed in-game version, this will also fix UC's version checker (other mods weren't and won't be affected by this)
+
 V 1.0.0
 -Initial Release!

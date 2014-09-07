@@ -1,7 +1,8 @@
 {
 	"modName": "UniversalCore",
-	"newVersion": "1.0.0",
-	"updateURL": "http://universalteam.github.io",
-	"isDirectLink": false,
-	"changelog": "Initial Release!"
+	"newVersion": "1.0.1",
+	"updateURL": "http://minecraft.curseforge.com/mc-mods/223303-universalcore/files/2213744/download",
+	"isDirectLink": true,
+	"changelog": "Fixed crashing on server starting
+	Fixed in-game version, this will also fix UC's version checker (other mods weren't and won't be affected by this)"
 }
