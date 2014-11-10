@@ -1,5 +1,8 @@
 FlatBedrock's change log!
 
+V 1.0.2
+-FIX: fixed crash on server startup.
+
 V 1.0.1
 -FIX: fixed server crash on startup.
 

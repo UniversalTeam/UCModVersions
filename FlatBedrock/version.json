@@ -1,7 +1,7 @@
 {
 	"modName": "FlatBedrock",
-	"newVersion": "1.0.1",
-	"updateURL": "http://minecraft.curseforge.com/mc-mods/78886-flatbedrockx/files/2214336/download",
+	"newVersion": "1.0.2",
+	"updateURL": "http://minecraft.curseforge.com/mc-mods/78886-flatbedrockx/files/2218516/download",
 	"isDirectLink": true,
-	"changelog": "fixed severe server crash"
+	"changelog": "fixed crash on server startup"
 }
